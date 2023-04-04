@@ -1,5 +1,16 @@
 # Shopping Cart
 
+## Description
+This exercise uses a mock shopping cart built with React and a backend database setup with Strapi and Postman. The shopping cart has functionality that allows you to add and remove products from your cart. Adding the backend enabled additional functionality by way of allowing the stock to be reset. The restocking funtionality is accomplished by making a call to a Strapi API to get a restocked list of products. Adding the backend enabled restocking functionality which is accomplished by making a call to a Strapi API to get a restocked list of products.
+
+
+## How to Run
+<a href="https://kayla-day.github.io/Shopping-Cart/">Give it a try!</a>
+
+
+## Future Improvements
+Adding some functionality to the 'checkout' button.
+
 
 ## License
 MIT License
